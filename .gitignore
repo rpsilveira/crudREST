@@ -5,3 +5,4 @@ client/__history/
 *.dproj.local
 *.identcache
 *.res
+*.exe
