@@ -1,5 +1,7 @@
-Win32/
-__history/
+server/Win32/
+client/Win32/
+server/__history/
+client/__history/
 *.dproj.local
 *.identcache
 *.res
