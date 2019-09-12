@@ -3,7 +3,8 @@ unit U_BaseControl;
 interface
 
 uses
-  System.Classes, FireDAC.Comp.Client, System.SysUtils;
+  System.Classes, FireDAC.Comp.Client, FireDAC.Dapt, FireDAC.Stan.Async,
+  System.SysUtils;
 
 type
   TBaseControl = class(TComponent)
